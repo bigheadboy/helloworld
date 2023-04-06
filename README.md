@@ -1,4 +1,5 @@
 # helloworld
 ---
--git study
--other
+ - git study
+ - other
+---
